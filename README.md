@@ -41,7 +41,7 @@ This is testing paragraph
 &lt;p&gt;Blocking of code &lt;p&gt;
 
 ### Code Inline 
-<p> Markdown is a '<em> Text to html</em>' testing 
+<p> Markdown is a '<em> Text to html</em>' testing </p>
 
  ### Line Breaks
  ### BlockQuotes
