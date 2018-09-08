@@ -61,3 +61,5 @@ ___
 :two:
 :smiley:
 :sleeping:
+
+<p> Code inline is like this '<br> <tr> <body>' </p>
