@@ -62,4 +62,4 @@ ___
 :smiley:
 :sleeping:
 
-<p> Code inline is like this '<br>' </p>
+<p> Code inline is like this "<br>" </p>
